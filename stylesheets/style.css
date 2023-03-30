@@ -1,0 +1,22 @@
+* {
+    color: white;
+    background-color: #424242;
+    margin: 10em;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box1 {
+    width: 50%;
+    height: 50%;
+}
+
+.box2 {
+    width: 50%;
+    height: 50%;
+}
+
